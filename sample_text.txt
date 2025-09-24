@@ -1,0 +1,2 @@
+Toronto General Hospital partnered with Apple in 2025 to explore AI for patient triage.
+The team improved NLP accuracy by 12% and reduced latency by 30%.
