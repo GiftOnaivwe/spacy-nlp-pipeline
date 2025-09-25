@@ -1,6 +1,6 @@
 # spacy-nlp-pipeline
 
-A clean, productionâ€‘minded mini NLP pipeline built with **spaCy**
+A clean, production minded mini NLP pipeline built with **spaCy**
 
 ##  Features
 - **Reproducible notebook**: modular functions, clear sections, and a self check.
