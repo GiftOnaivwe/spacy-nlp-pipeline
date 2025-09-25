@@ -25,7 +25,7 @@ After running on `sample_text.txt`, you'll see files like:
 outputs/
 - sample_tokens.csv
 - sample_entities.csv
-- ample_dependencies.csv
+- sample_dependencies.csv
 - sample_noun_chunks.csv
 ```
 
